@@ -1,3 +1,9 @@
+AIM:
+To study and implement C++ Bitwise Operators
+
+SOFTWARE USED:
+VS CODE
+
 Theory:
 Decision-making statements in C++ are used to control the flow of a program based on certain conditions. These statements evaluate a condition and execute a block of code based on whether the condition is true or false. The main decision-making statements in C++ are:
 if statement:
